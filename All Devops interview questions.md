@@ -40,5 +40,5 @@ MTTR = (20 + 40 + 30) / 3 = 30 mins
 
 # Interview
 
-"So basically, MTTR is the average time it takes to recover from a failure in a system. Earlier, teams didn’t track recovery time, so outages could last hours without clear visibility. MTTR helps measure and improve how quickly we fix issues. In DevOps, this is very important because faster recovery means less downtime, better user experience, and reduced business loss. For example, if a server crashes and we recover it in 5 minutes instead of 1 hour, our MTTR improves significantly. So overall, it’s a key metric for system reliability and operational efficiency."
+"MTTR measures how quickly we recover when something breaks in production. Earlier, teams didn’t track recovery time, so outages could last hours without clear visibility. MTTR helps measure and improve how quickly we fix issues. In DevOps, this is very important because faster recovery means less downtime, better user experience, and reduced business loss. For example, if a server crashes and we recover it in 5 minutes instead of 1 hour, our MTTR improves significantly. So overall, it’s a key metric for system reliability and operational efficiency."
    
