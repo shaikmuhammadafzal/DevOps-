@@ -1,4 +1,4 @@
-# What is MTTR?
+# What is MTTR? MTTR (Mean Time To Recovery/Repair) 
  MTTR = Average time taken to fix a problem and restore system 
  
  MTTR = Total downtime / Number of incidents
